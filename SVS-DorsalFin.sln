@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC_DorsalFin", "AC\AC_DorsalFin.csproj", "{27A1FFBC-26F1-B943-E952-18B854FD5460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVS_DorsalFin", "SVS\SVS_DorsalFin.csproj", "{5021A51F-20EA-5A23-8FDE-18E2A481D3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A1FFBC-26F1-B943-E952-18B854FD5460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A1FFBC-26F1-B943-E952-18B854FD5460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A1FFBC-26F1-B943-E952-18B854FD5460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A1FFBC-26F1-B943-E952-18B854FD5460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5021A51F-20EA-5A23-8FDE-18E2A481D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5021A51F-20EA-5A23-8FDE-18E2A481D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5021A51F-20EA-5A23-8FDE-18E2A481D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5021A51F-20EA-5A23-8FDE-18E2A481D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3BE43A-F18E-4717-8CE0-F4C2F295DA19}
+	EndGlobalSection
+EndGlobal
