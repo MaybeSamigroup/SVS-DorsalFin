@@ -452,7 +452,7 @@ namespace DorsalFin
     {
         public const string Name = "DorsalFin";
         public const string Guid = $"{Process}.{Name}";
-        public const string Version = "1.0.0";
+        public const string Version = "1.1.0";
         internal static Plugin Instance;
         CompositeDisposable Subscription;
         public Plugin() : base() => Instance = this;
