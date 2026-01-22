@@ -1,26 +1,35 @@
 # SVS-DorsalFin
 
+- [Prerequisites](#prerequisites)
+  - [Aicomi](#aicomi)
+  - [SamabakeScramble](#samabakescramble)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Tips](#tips)
+
 Color modifier utility in character creation for SamabakeScramble and Aicomi.
 
-## Prerequisites (Aicomi)
+## Prerequisites
+
+### Aicomi
+
+Confirmed working under Aicomi 1.0.7
 
 - [AC-HF_Patch](https://github.com/ManlyMarco/AC-HF_Patch)
   - Message Center
   - BepInEx.ConfigurationManager
   - SVS_BepisPlugins
 - [CoastalSmell](https://github.com/MaybeSamigroup/SVS-Fishbone)
-  - 1.1.9 or later
+  - 2.0.0 or later
 
-Confirmed working under Aicomi 1.0.4
-
-## Prerequisites (SamabakeScramble)
+## SamabakeScramble
 
 - [SVS-HF_Patch](https://github.com/ManlyMarco/SVS-HF_Patch)
   - Message Center
   - BepInEx.ConfigurationManager
   - SVS_BepisPlugins
 - [CoastalSmell](https://github.com/MaybeSamigroup/SVS-Fishbone)
-  - 1.1.9 or later
+  - 2.0.0 or later
 
 Confirmed working under SamabakeScramble 1.1.6
 
